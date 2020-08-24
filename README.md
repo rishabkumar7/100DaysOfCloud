@@ -14,23 +14,22 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Rishab's Cloud Journey
 
-[✍️ Introduce yourself]
+I try to create nice web experiences. I am experienced in Amazon Web Services and can help clients with several related technologies.
 
-[✍️ Tell us why you started this challenge]
+Trying to gain multi-cloud skills and certifications!
 
-[✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/rishabk7)
+- [LinkedIn](https://www.linkedin.com/in/rishabkumar7)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 1 > [AWS SysOps - EC2](https://twitter.com/rishabk7/status/1296059876343513089?s=20)
+- [ ] ☁️ 2 > [AWS SysOps - EC2](https://twitter.com/rishabk7/status/1296059876343513089?s=20)
+- [ ] ☁️ 3 > [ELB, Auto Scaling Traget Groups](https://twitter.com/rishabk7/status/1296967893360541697?s=20)
+- [ ] ☁️ 4 > [Elastic BeanStalk](https://twitter.com/rishabk7/status/1297987041423167488?s=20)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
