@@ -26,16 +26,16 @@ Trying to gain multi-cloud skills and certifications!
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [AWS SysOps - EC2](https://twitter.com/rishabk7/status/1296059876343513089?s=20)
-- [ ] ☁️ 2 > [AWS SysOps - EC2](https://twitter.com/rishabk7/status/1296059876343513089?s=20)
-- [ ] ☁️ 3 > [SysOps - ELB, Auto Scaling Traget Groups](https://twitter.com/rishabk7/status/1296967893360541697?s=20)
-- [ ] ☁️ 4 > [SysOps - Elastic BeanStalk](https://twitter.com/rishabk7/status/1297987041423167488?s=20)
-- [ ] ☁️ 5 > [SysOps - CloudFormation](https://twitter.com/rishabk7/status/1298353302846021636?s=20)
-- [ ] ☁️ 6 > [SysOps - CloudFormation](https://twitter.com/rishabk7/status/1298783078526136321?s=20)
-- [ ] ☁️ 7 > [SysOps - CloudTrail & OpsWorks](Jhttps://twitter.com/rishabk7/status/1299169577750999040?s=20)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [AWS SysOps] ☁️ 1 > [EC2](https://twitter.com/rishabk7/status/1296059876343513089?s=20)
+- [AWS SysOps] ☁️ 2 > [EC2](https://twitter.com/rishabk7/status/1296059876343513089?s=20)
+- [AWS SysOps] ☁️ 3 > [ELB, Auto Scaling Traget Groups](https://twitter.com/rishabk7/status/1296967893360541697?s=20)
+- [AWS SysOps] ☁️ 4 > [Elastic BeanStalk](https://twitter.com/rishabk7/status/1297987041423167488?s=20)
+- [AWS SysOps] ☁️ 5 > [CloudFormation](https://twitter.com/rishabk7/status/1298353302846021636?s=20)
+- [AWS SysOps] ☁️ 6 > [CloudFormation](https://twitter.com/rishabk7/status/1298783078526136321?s=20)
+- [AWS SysOps] ☁️ 7 > [CloudTrail & OpsWorks](https://twitter.com/rishabk7/status/1299169577750999040?s=20)
+- [AWS SysOps] ☁️ 8 > [EC2 Storage & EBS/EFS](https://twitter.com/rishabk7/status/1299773240102080513?s=20)
+- [AWS SysOps] ☁️ 9 > [S3](https://twitter.com/rishabk7/status/1299773240102080513?s=20)
+- [AWS SysOps] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
 
