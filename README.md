@@ -35,14 +35,14 @@ Trying to gain multi-cloud skills and certifications!
 - [AWS SysOps] ☁️ 7 > [CloudTrail & OpsWorks](https://twitter.com/rishabk7/status/1299169577750999040?s=20)
 - [AWS SysOps] ☁️ 8 > [EC2 Storage & EBS/EFS](https://twitter.com/rishabk7/status/1299773240102080513?s=20)
 - [AWS SysOps] ☁️ 9 > [S3](https://twitter.com/rishabk7/status/1299773240102080513?s=20)
-- [AWS SysOps] ☁️ 10 > [](Journey/010/Readme.md)
+- [AWS SysOps] ☁️ 10 > [Networking](https://twitter.com/rishabk7/status/1300534707105529857?s=20)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [AWS SysOps] ☁️ 11 > [Networking](https://twitter.com/rishabk7/status/1300534707105529857?s=20)
+- [AWS SysOps] ☁️ 12 > [Databases/RDS](https://twitter.com/rishabk7/status/1300985663513296896?s=20)
+- [AWS SysOps] ☁️ 13 > [Auditing/Perfomance and Account Management](Journey/013/Readme.md)
+- [AWS SysOps] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
